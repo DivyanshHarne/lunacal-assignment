@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-    <div className='p-4 w-full' style={{background: "linear-gradient(180deg, #373E44 -100%, #191B1F 100%", minHeight:"100%", borderRadius:"28px"}}>
+    <div className='p-6 w-full' style={{background: "linear-gradient(180deg, #373E44 -100%, #191B1F 100%)", minHeight:"100%", borderRadius:"0px"}}>
       {/* <AboutCard/> */}
       <Home/>
       </div>
